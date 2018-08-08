@@ -5,6 +5,6 @@ Hello,
 
 Jorrit here, I like Java, python and VBA. 
 
-Regards,
+Cheers,
 
 Jorrit
